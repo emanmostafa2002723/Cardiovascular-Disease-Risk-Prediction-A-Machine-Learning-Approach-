@@ -1,0 +1,2 @@
+# Cardiovascular-Disease-Risk-Prediction-A-Machine-Learning-Approach-
+This study develops a machine learning pipeline for predicting cardiovascular disease risk using clinical data from 70,000  patient records. Guided by a clinical design principle where missed diagnoses are more consequential than false alarms we optimize  models for recall while maintaining a clinically acceptable precision floor. 
