@@ -1,0 +1,47 @@
+# Data files (download from Kaggle)
+data/cardio_train.csv
+data/*.csv
+data/*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model artifacts (large files)
+*.pkl
+*.joblib
+*.model
+models/
+
+# Optuna study databases
+*.db
+
+# Logs
+*.log
+logs/
